@@ -108,6 +108,10 @@ THC is actively being developed. Some provider features, synced lyrics, cover ar
 
 Server owners can configure restrictions for music playback, particles, HUD visibility, listening parties, and player permissions.
 
+Plugin version will be developed later on so servers can use plugins if they'd like servers to use this.
+
+While this is currently closed source, in the future it will be made publicly once player made audio visualizers can become universal with another client without the server needing the mod (Like Lunar Client).
+
 ---
 
 ## Planned Features
