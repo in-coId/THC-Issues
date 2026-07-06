@@ -35,7 +35,7 @@ Turn your music into animated particle systems, glowing geometry, responsive HUD
 ### GUI Screenshot
 
 <p align="center">
-  <img src="https://i.imgur.com/WqaaGNB.png" alt="THC GUI Screenshot" width="100%">
+  <img src="https://i.imgur.com/McV1Rpo.png alt="THC GUI Screenshot" width="100%">
 </p>
 
 ---
@@ -119,11 +119,18 @@ Server owners can configure restrictions for music playback, particles, HUD visi
 * Better cover art and metadata fetching
 * More particle presets inspired by advanced visual clients
 * Improved dynamic lighting and shader glow integration
+* Player made audio visualizers
+* Plugin Version
+* Compatibility/Integration with Voice Chat Mod & EmoteCraft
+* Client-Side Syncing (Like Lunar does with emotes)
+* Icons instead of just text symbols/words
 
 ---
 
 ## Credits
 
-Created by **h9st**.
+Created by **incold**.
 
 THC is inspired by modern visual clients, music visualizers, particle systems, and sleek animated UI design.
+
+https://www.curseforge.com/minecraft/mc-mods/thc
