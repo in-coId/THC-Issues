@@ -137,4 +137,5 @@ Created by **incold**.
 
 THC is inspired by modern visual clients, music visualizers, particle systems, and sleek animated UI design.
 
+https://thc.alcoholicwizards.com
 https://www.curseforge.com/minecraft/mc-mods/thc
